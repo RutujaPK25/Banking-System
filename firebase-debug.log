@@ -1,0 +1,26 @@
+[debug] [2021-07-14T08:18:46.175Z] ----------------------------------------------------------------------
+[debug] [2021-07-14T08:18:46.178Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\User\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2021-07-14T08:18:46.178Z] CLI Version:   9.16.0
+[debug] [2021-07-14T08:18:46.178Z] Platform:      win32
+[debug] [2021-07-14T08:18:46.179Z] Node Version:  v14.3.0
+[debug] [2021-07-14T08:18:46.180Z] Time:          Wed Jul 14 2021 13:48:46 GMT+0530 (India Standard Time)
+[debug] [2021-07-14T08:18:46.180Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2021-07-14T08:18:46.184Z] >>> [apiv2][query] GET https://firebase-public.firebaseio.com/cli.json [none]
+[debug] [2021-07-14T08:18:46.203Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2021-07-14T08:18:46.204Z] > authorizing via signed-in user (rutujakothari25@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\xampp\htdocs\sparks
+
+Before we get started, keep in mind:
+
+  * You are currently outside your home directory
+
